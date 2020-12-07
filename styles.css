@@ -8,3 +8,9 @@
     height:700px;
     overflow: hidden;
   }
+
+  .jumbotron {
+
+    background-color: rgb(38, 187, 137) ;
+    color: black;
+  }
